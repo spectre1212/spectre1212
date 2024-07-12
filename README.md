@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spectre1212" alt="spectre1212" /></a> </p>
 
-- 🔭 I’m currently working on **Parkinson Prediction Model**
+- 🔭 I’m have worked on **Parkinson Prediction Model**
 
 - 🌱 I’m currently learning **React , Node Js**
 
