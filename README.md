@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spectre1212&label=Profile%20views&color=0e75b6&style=flat" alt="spectre1212" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spectre1212" alt="spectre1212" /></a> </p>
+<!--<p align="left"> <a href="Enter the link to my trophies here"><img src="https://github-profile-trophy.vercel.app/?username=spectre1212" alt="spectre1212" /></a> </p> -->
 
 - 🔭 I’m have worked on **Parkinson Prediction Model**
 
