@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
-<h3 align="left">Software Engineer with 1+ year of experience in backend automation and full-stack development using Python, Django, and FastAPI. Skilled in JavaScript, TypeScript, and C++, with hands-on expertise in RAG-based AI applications using LangChain, OpenAI APIs, and vector databases. Reduced manual test analysis time by ~80% and saved teams 4–5 hours weekly through automation. Experienced in REST API design, asynchronous processing with Celery and Redis, and deploying containerized applications on AWS and Vercel.</h3>
+<h3 align="left">Software Engineer with interests in backend development, automation, and AI integration. Proficient in Python, Django, FastAPI, LangChain, and cloud deployment on AWS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spectre1212&label=Profile%20views&color=0e75b6&style=flat" alt="spectre1212" /> </p>
 
