@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tushar Singh</h1>
+<h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="left">A passionate AIML developer , with an in-depth knowledge in C++, Python , DBMS and DSA with an on-hand experience with technologies like Vs-code , Github , Pycharm</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spectre1212&label=Profile%20views&color=0e75b6&style=flat" alt="spectre1212" /> </p>
 
 <!--<p align="left"> <a href="Enter the link to my trophies here"><img src="https://github-profile-trophy.vercel.app/?username=spectre1212" alt="spectre1212" /></a> </p> -->
-
-- 🔭 I’m have worked on **Parkinson Prediction Model**
-
-- 🌱 I’m currently learning **React , Node Js**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
